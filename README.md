@@ -34,6 +34,23 @@ The dataset is provided in standard CSV format and can be parsed using any commo
 
 If you use this dataset in academic work, **please cite the original research and credit the dataset appropriately.** For now, please use:
 
+P. A. D. Burger and J. P. Jacobs, "Automatic Self-Similarity Based Form Labelling of Classical-Period Piano Sonata Movements From Audio Recordings," in IEEE Transactions on Audio, Speech and Language Processing, vol. 33, pp. 3414-3427, Aug. 2025, doi: 10.1109/TASLPRO.2025.3594301.
+
+```bibtex
+@article{burger2025,
+  author = {Burger, Paul Alwyn Desmond and Jacobs, J P},
+  journal={IEEE Transactions on Audio, Speech and Language Processing}, 
+  title={Automatic Self-Similarity Based Form Labelling of Classical-Period Piano Sonata Movements From Audio Recordings}, 
+  year={2025},
+  month = {Aug.},
+  volume={33},
+  pages={3414--3427},
+  doi={10.1109/TASLPRO.2025.3594301}
+}
+```
+
+or:
+
 P. A. D. Burger and J. P. Jacobs, “Direct labelling of form of Classical-period piano sonata movements from audio recordings,” in Proc. 11th Int. Conf. on DLFM, ser. DLfM ’24. Stellenbosch, South Africa: Association for Computing Machinery, Jun. 27, 2024, pp. 1–5.
 
 BibTeX entry:
